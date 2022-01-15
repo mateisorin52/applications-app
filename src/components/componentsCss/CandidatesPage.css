@@ -1,0 +1,10 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.main-container{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    justify-items: center;
+
+}
